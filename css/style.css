@@ -1,6 +1,5 @@
 
 
-
 .wrapper{
     background-color: #5d76e8;
     width: 100%;
@@ -14,21 +13,11 @@
 }
 
 
-.bg-{
-    background-color: rgba(90, 79, 79, 0.581);
-}
-
-
 p {
     text-align: center;
     font-weight: 700;
     
 }
-
-.border{
-    border: 1px solid grey;
-}
-
 
 .box{
     width: 90px;
