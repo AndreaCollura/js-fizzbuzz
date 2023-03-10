@@ -2,7 +2,7 @@
 
 
 .wrapper{
-    background-color: rgba(40, 164, 40, 0.685);
+    background-color: #5d76e8;
     width: 100%;
     
     
@@ -31,8 +31,10 @@ p {
 
 
 .box{
-    width: 100px;
-    height: 100px;
+    width: 90px;
+    height: 90px;
+    border-radius: 20px;
+    background-color: white;
 
 }
 
@@ -45,4 +47,25 @@ p {
 .fbcont {
     width: 1000px;
     
+}
+
+.pu-txt{
+    color: #eb2a92;
+}
+
+
+.bg-txt{
+    background-color: #5d76e8;
+}
+.or-bg{
+    background-color: #e65d19;
+}
+.pu-bg{
+    background-color: #eb2a92;
+}
+.ye-bg{
+    background-color: #e6c253;
+}
+.gr-bg{
+    background-color: #5ae856;
 }
